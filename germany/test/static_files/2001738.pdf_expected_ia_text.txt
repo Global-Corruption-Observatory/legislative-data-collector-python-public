@@ -1,0 +1,147 @@
+C. Alternativen
+
+Keine.
+
+Begründung
+
+A. Allgemeiner Teil
+
+I.
+
+ Zielsetzung und Notwendigkeit der Regelungen
+§ 118 Absatz 1 Satz 1 des Aktiengesetzes (AktG) sieht vor, dass die Aktionäre ihre Rechte in den Angelegenhei-
+ten der Gesellschaft grundsätzlich in der Hauptversammlung ausüben, wenn das Gesetz keine anderen Bestim-
+mungen enthält. Dies betrifft die versammlungsgebundenen Rechte wie etwa das Stimmrecht oder das Beschluss-
+antragsrecht. In der Regelung des § 118 Absatz 1 Satz 1 AktG manifestiert sich das nicht entziehbare Recht eines
+jeden Aktionärs auf Teilnahme an der Hauptversammlung durch physische Präsenz am Versammlungsort.
+Das Gesetz zur Umsetzung der Aktionärsrechterichtlinie (ARUG) vom 30. Juli 2009 führte durch Einfügung des
+§ 118 Absatz 1 Satz 2 AktG die Möglichkeit ein, in der Satzung festzulegen, dass Aktionäre auch an der Ver-
+sammlung teilnehmen und ihre Rechte in Form der elektronischen Kommunikation ausüben können, ohne am
+Versammlungsort zu sein. Nach § 118 Absatz 2 Satz 1 AktG kann die Satzung die Abgabe der Stimmen durch
+elektronische Briefwahl ermöglichen. Die Möglichkeit der elektronischen Teilnahme kann die der Präsenzteil-
+nahme ergänzen, Versammlungen können damit als hybride Versammlungen abgehalten werden. Wenngleich es
+diese Regelung auch ermöglicht, dass alle Aktionäre im Wege elektronischer Teilnahme an der Versammlung
+teilnehmen und sich damit kein Aktionär physisch am Versammlungsort aufhält, kann auf ihrer Grundlage keine
+ausschließlich virtuelle Hauptversammlung abgehalten werden, die das Recht auf physische Präsenz vollständig
+ausschließt. Die derzeitige Rechtslage im AktG sieht eine virtuelle Hauptversammlung ohne physische Anwesen-
+heit der Aktionäre damit nicht vor.
+Über die Frage, ob die Abhaltung von Hauptversammlungen von Aktiengesellschaften als virtuelle Versammlun-
+gen ermöglicht werden sollte, wurde im aktienrechtlichen Schrifttum bereits vor Beginn der COVID-19-Pandemie
+intensiv diskutiert. Anlässlich der Auswirkungen der Pandemie sah sich der Gesetzgeber im Frühjahr 2020 dann
+kurzfristig mit der Frage konfrontiert, ob und, wenn ja, welcher Erleichterungen es auch für Aktiengesellschaften
+und verwandte Rechtsformen bedurfte, damit diese ihre Versammlungen rechtssicher und zugleich unter Berück-
+sichtigung der pandemiebedingten Vorgaben abhalten und gestalten konnten. Dies führte im Ergebnis zum Erlass
+des Gesetzes über Maßnahmen im Gesellschafts-, Genossenschafts-, Vereins-, Stiftungs- und Wohnungseigen-
+tumsrecht zur Bekämpfung der Auswirkungen der COVID-19-Pandemie vom 27. März 2020 (BGBl. I S. 569,
+570) (GesRuaCOVBekG). Bei diesem Gesetz handelt es sich um eine pandemiebedingte Sonderregelung, in der
+Regelungen für die Abhaltung von Versammlungen verschiedener Rechtsformen vorgesehen sind. § 1 des Geset-
+zes enthält Regelungen für Aktiengesellschaften und die mit ihnen verwandten Rechtsformen der Kommanditge-
+sellschaft auf Aktien (KGaA), der Europäischen Gesellschaft (SE) und des Versicherungsvereins auf Gegensei-
+tigkeit (VVaG). Hierzu gehören nach § 1 Absatz 1 GesRuaCOVBekG Erleichterungen für unter anderem die
+elektronische Teilnahme an einer Hauptversammlung und die Stimmabgabe im Wege elektronischer Kommuni-
+kation.
+§ 1 Absatz 2 GesRuaCOVBekG geht indes über diese Erleichterungen hinaus, indem er erstmals vorsieht, dass
+eine Hauptversammlung ohne physische Präsenz der Aktionäre der Gesellschaft als virtuelle Hauptversammlung
+abgehalten werden kann. Die Abhaltung der Versammlung als virtuelle Hauptversammlung wird zur Gewährleis-
+tung der Aktionärsteilhabe an vier grundlegende Voraussetzungen geknüpft: Die Bild- und Tonübertragung der
+Versammlung, die Ermöglichung der Stimmrechtsausübung der Aktionäre über elektronische Kommunikation,
+die Einräumung eines Fragerechts der Aktionäre sowie die Gewährleistung einer Widerspruchsmöglichkeit. Die
+Möglichkeit zur Abhaltung virtueller Hauptversammlungen war zunächst auf das Jahr 2020 befristet und wurde
+angesichts der fortdauernden Pandemiesituation zunächst bis zum Ende des Jahres 2021 und dann noch einmal
+bis einschließlich 31. August 2022 verlängert (BGBl. I 2021, S. 4147).
+Die seit Inkrafttreten des GesRuaCOVBekG in den Jahren 2020 und 2021 abgehaltenen Hauptversammlungen
+börsennotierter Gesellschaften wurden, soweit bekannt, nahezu ausnahmslos als virtuelle Hauptversammlungen
+Drucksache 20/1738
+ – 14 –
+ Deutscher Bundestag – 20. Wahlperiode
+durchgeführt. Diesbezüglich lässt sich sagen, dass die Praxis das Instrument der virtuellen Hauptversammlung
+überwiegend positiv aufgenommen hat. Die in der Hauptversammlungssaison des Jahres 2020 und auch in 2021
+abgehaltenen virtuellen Versammlungen haben gezeigt, dass sich diese Versammlungsform grundsätzlich be-
+währt hat. So konnte etwa in vielen Versammlungen eine Steigerung der Teilnehmerzahl festgestellt werden. Das
+virtuelle Format hat es insbesondere ausländischen Aktionären, für die eine Präsenzteilnahme nicht oder nur
+schwerlich in Betracht kommt, erleichtert, an der Versammlung teilzunehmen. Dies betrifft auch Kleinaktionäre
+mit Wohnsitz im Inland, für die nicht unerhebliche Kosten für Anreise und Übernachtung anfallen können. Die
+Möglichkeit für den Vorstand, mit Zustimmung des Aufsichtsrats die Vorabeinreichung von Aktionärsfragen vor-
+sehen zu können, hat vielfach zu einer Steigerung der Qualität der durch die Verwaltung gegebenen Antworten
+geführt. Zudem sind virtuelle Hauptversammlungen im Vergleich zur Präsenzversammlung mit geringeren Kos-
+ten verbunden. Durch die Abhaltung der virtuellen Versammlungen konnten Instrumente für die Online-Teil-
+nahme erprobt und verbessert werden.
+Nichtsdestotrotz wohnt dem GesRuaCOVBekG naturgemäß der Charakter einer pandemiebedingten Sonderrege-
+lung inne, die in erster Linie sicherzustellen hat, dass die Gesellschaften ihre Versammlungen rechtssicher und
+zugleich handhabbar gestalten können. Dies hat zur Folge, dass die Rechte der Aktionäre dort nicht in gleichem
+Maße gewährleistet werden können, wie dies in einer Präsenz- oder hybriden Versammlung nach den Vorschriften
+des AktG der Fall ist. So ist auf der Grundlage des GesRuaCOVBekG das Stellen von Aktionärsfragen in der
+Versammlung nur dann möglich, wenn die Verwaltung der Gesellschaft keinen Gebrauch von der Möglichkeit
+macht, dass Fragen im Vorfeld der Versammlung im Wege elektronischer Kommunikation einzureichen sind.
+Wird die Stimmrechtsausübung der Aktionäre, wie durch das GesRuaCOVBekG gestattet, allein über die elekt-
+ronische Briefwahl ermöglicht, ist keine elektronische Teilnahme an der Versammlung möglich. Infolgedessen
+können bestimmte Rechte wie das Antrags- und das Rederecht in der Versammlung nicht wahrgenommen werden.
+Die Frage, welche Bestandteile des GesRuaCOVBekG sich – in angepasster Form – für eine Verstetigung im
+AktG eignen, hat das rechtswissenschaftliche Schrifttum seit Inkrafttreten der Regelungen zur virtuellen Haupt-
+versammlung intensiv beschäftigt. Dass eine dauerhafte Regelung der virtuellen Hauptversammlung erfolgen soll,
+wird im Schrifttum vielfach befürwortet. Dabei werden sehr unterschiedliche Vorschläge unterbreitet, wie die
+Regelungen für eine virtuelle Hauptversammlung ausgestaltet werden können (siehe etwa Noack/Zetzsche,
+AG 2020, 721, 725 ff.; Dubovitskaya, NZG 2020, 647, 650 ff.; Redenius-Hövermann/Bannier, ZIP 2020, 1885,
+1892 ff.; Seibt/Danwerth, NZG 2020, 1241, 1248 ff.; Teichmann/Krapp, DB 2020, 2169; Franzmann/Brouwer,
+AG 2020, 921; Roth, FS Windbichler, 2020, S. 963).
+Vor dem Hintergrund der voranschreitenden Digitalisierung auch des Aktienrechts, die durch das GesRua-
+COVBekG einen unerwarteten Anstoß erhalten hat, sollen die mit den virtuellen Hauptversammlungen gewonne-
+nen positiven Erfahrungen der Jahre 2020 und 2021 nicht ungenutzt bleiben und eine dauerhafte gesetzliche
+Grundlage dafür geschaffen werden, dass die Gesellschaften das Format der virtuellen Hauptversammlung auch
+zukünftig als weitere Option nutzen können. Die Einführung einer Option der virtuellen Hauptversammlung trägt
+der voranschreitenden Digitalisierung der Kommunikation Rechnung.
+Aufgrund der Verbreitung der Zugangsmöglichkeiten zum Internet lässt sich heute nicht mehr sagen, dass dies
+eine für die Aktionäre unüberwindbare Hürde für die Teilnahme an einer virtuellen Hauptversammlung darstelle.
+Der Koalitionsvertrag zwischen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP für die 20. Legislaturperiode des
+Deutschen Bundestages sieht in Randnummer 3746 f. vor, dass Online-Hauptversammlungen dauerhaft unter un-
+eingeschränkter Wahrung der Aktionärsrechte ermöglicht werden sollen.
+Daher ist bei der Umsetzung dieses Ziels darauf zu achten, dass die Aktionäre im Falle einer virtuellen Hauptver-
+sammlung ihre Rechte ebenso und weitestgehend vergleichbar wahrnehmen können wie bei der Präsenzveran-
+staltung. Aus den oben dargestellten Gründen kann das GesRuaCOVBekG in der bestehenden Form daher kein
+Vorbild für eine dauerhafte Regelung der virtuellen Hauptversammlung im AktG sein. Abgesehen von einzelnen
+Besonderheiten der elektronischen Kommunikation ist sicherzustellen, dass alle Elemente der Präsenzversamm-
+lung in einer möglichst unveränderten Form in einer virtuellen Versammlung abgebildet werden können. Die mit
+der Digitalisierung einhergehenden Neuerungen sollen hier aufgegriffen und möglichst vollständig unter der Maß-
+gabe des vorrangigen Ziels der Gewährleistung der Aktionärsdemokratie nutzbar gemacht werden.
+Neben der Digitalisierung wird bei der Diskussion um die virtuelle Hauptversammlung sehr häufig ein weiterer
+das Leitbild der Hauptversammlung insgesamt betreffender Aspekt erörtert: Es wird beobachtet, dass in der Praxis
+Deutscher Bundestag – 20. Wahlperiode
+ – 15 –
+ Drucksache 20/1738
+eine zunehmende Verlagerung der Informations- und Entscheidungsprozesse der Hauptversammlung in das Ver-
+sammlungsvorfeld stattfindet (Seibt/Danwerth, AG 2021, 369 ff.). Die Versammlung ist oft nicht mehr der zent-
+rale Termin, an dem den Aktionären Informationen übermittelt werden. Aktionäre erhalten Informationen auch
+dann, wenn diese aufgrund des Kapitalmarktrechts erfolgen oder darüber hinaus unabhängig vom Versammlungs-
+termin zur Verfügung gestellt werden. Hier können auch die sogenannten „Investorengespräche“ eine Rolle spie-
+len. Für aufsichtsratsspezifische Themen regt der Deutsche Corporate Governance Kodex (DCGK) in Anregung
+A.3 solche Gespräche sogar an. Häufig bilden die Aktionäre ihren Willen zu den Abstimmungspunkten dann
+bereits vor der Versammlung. Auch äußern viele Aktionäre ihren Willen dadurch, dass sie von ihrem Stimmrecht
+vor und nicht erst in der Versammlung Gebrauch machen. Dies betrifft insbesondere institutionelle Anleger. Im
+Rahmen des Abstimmungsprozesses in der Versammlung wird der so geäußerte Wille dann mit der Auszählung
+der Stimmen und der Feststellung der Beschlüsse durch den Versammlungsleiter lediglich noch festgestellt. Nicht
+selten wird auch bereits bei Präsenz-Hauptversammlungen bemängelt, dass ein echter, auf einer freien Rede ba-
+sierender Dialog zwischen Verwaltung und Aktionären oder Aktionärsvereinigungen ohnehin nicht stattfinde, da
+von beiden Seiten lediglich vorbereitete Reden oder Stellungnahmen vorgetragen werden.
+Hinzu kommt, dass die Aktionäre, für die eine persönliche Teilnahme an der Hauptversammlung gar nicht oder
+kaum möglich ist, darauf angewiesen sind, dass sie ihre Rechte im Vorfeld der Versammlung ausüben können.
+Um diese wahrzunehmen, benötigen sie aber auch gleichzeitig ausreichende Informationen, die ebenfalls vor der
+Hauptversammlung zur Verfügung stehen müssen. Gerade für institutionelle Anleger spielen diese Informationen
+im Vorfeld eine bedeutende Rolle, weil sie ihre Stimmen bereits vor der Hauptversammlung abgeben. Die At-
+traktivität der Hauptversammlung hängt also auch davon ab, wie die Unternehmen mit diesen Informationen im
+Vorfeld der Versammlung umgehen und wie die Aktionäre von ihnen eingebunden werden. Diese Entwicklung
+sollte im Wesentlichen der Hauptversammlungspraxis überlassen bleiben und nicht vom Gesetzgeber selbst in
+eine Richtung gelenkt werden. Der Entwurf verfolgt das Ziel, dass Unternehmen und Aktionäre auch bei der
+Hauptversammlung im virtuellen Format weiterhin diese Entwicklung frei bestimmen können. Entscheidend ist,
+dass die Hauptversammlung als das wichtigste Beschlussorgan der Gesellschaft und als Forum der Anleger in
+seiner Bedeutung auch im digitalen Raum erhalten bleibt. Den Anlegern muss es gestattet sein, bei der Hauptver-
+sammlung ihre Fragen und Meinungen in Redebeiträgen dem Vorstand übermitteln zu können. Es muss ein ver-
+gleichbarer Dialog entstehen, der auch bei Präsenzveranstaltungen existiert, jedenfalls, soweit es technisch im
+Wege der Zwei-Wege-Kommunikation, für die Redebeiträge also per Video-Kommunikation, gewährleistet wer-
+den kann.
+Die Problematik der Vorverlagerung ist durch das GesRuaCOVBekG noch einmal verstärkt in den Blick gerückt.
+Mit diesem Punkt ist auch die Frage verbunden, ob die Versammlung eine Entzerrung erfahren muss, da die
+versammlungsgebundenen Rechte wie das Frage- und das Rederecht durch die Aktionäre in der Versammlung
+auszuüben sind. Dabei sollte die Dauer der Hauptversammlung bei der virtuellen Hauptversammlung grundsätz-
+lich mit ähnlicher Länge anzusetzen sein, wie bei der Präsenzversammlung, um auch hier den Dialog ausreichend
+zu ermöglichen. Die Anregung A.4 des Deutschen Corporate Governance Kodex (DCGK) besagt, dass sich der
+Hauptversammlungsleiter an einer Versammlungsdauer von vier bis sechs Stunden orientieren soll.

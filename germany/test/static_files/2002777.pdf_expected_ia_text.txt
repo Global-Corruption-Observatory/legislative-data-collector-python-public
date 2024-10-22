@@ -1,0 +1,82 @@
+C. Alternativen
+
+Beibehaltung des bisherigen Zustands.
+
+Begründung
+
+A. Allgemeiner Teil
+I.
+ Zielsetzung und Notwendigkeit der Regelungen
+Um insbesondere den Vorgaben des Strafrechtsübereinkommens des Europarats über Korruption vom 27. Januar
+199 (ER-Strafrechtsübereinkommen) sowie des Übereinkommens der Vereinten Nationen gegen Korruption vom
+31. Oktober 2003 (VN-Übereinkommen gegen Korruption) zu entsprechen, beschloss der Deutsche Bundestag
+am 21. Februar 2014 mit den Stimmen der Fraktionen der CDU/CSU, SPD, BÜNDNIS 90/DIE GRÜNEN und
+DIE LINKE. nahezu einstimmig (lediglich drei Abgeordnete der Fraktion der CDU/CSU stimmten dagegen, sie-
+ben aus derselben Fraktion enthielten sich; vgl. Plenarprotokoll der 18. Sitzung, abrufbar unter http://dipbt.bun-
+destag.de/dip21/btp/18/18018.pdf#P.1389) das 48. Strafrechtsänderungsgesetz – Erweiterung des Straftatbe-
+stands der Abgeordnetenbestechung – (BGBl. I Jahrgang 2014, S. 410). Mit dem Gesetz sollte der frühere Tatbe-
+stand der „Abgeordnetenbestechung“, der als Unternehmensdelikt den Kauf oder Verkauf einer Stimme eines
+Abgeordneten oder Volksvertreters auf Bundes-, Landes- oder Gemeindeebene unter Strafe stellte, reformiert
+werden. Ziel war es, einen Straftatbestand zu schaffen, der „strafwürdige korruptive Verhaltensweisen von und
+gegenüber Mandatsträgern erfasst“ (BT-Drs. 18/476, S. 1). Bereits im Gesetzgebungsprozess war jedoch die Sinn-
+haftigkeit der einschränkenden Formulierung „im Auftrag oder auf Weisung“ im neu zu fassenden § 108e StGB
+umstritten (vgl. Sachverständigenanhörung vom 17.2.2014, Protokoll 18. Wahlperiode, 7. Sitzung Ausschuss für
+Recht und Verbraucherschutz, S. 32, sowie die Beschlussempfehlung des Ausschusses für Recht und Verbrau-
+cherschutz vom 19.02.2014 auf BT-Drs. 18/607, S. 7). Sie wird weder vom ER-Strafrechtsübereinkommen noch
+vom VN-Übereinkommen gefordert (Kubiciel/Hoven, NK 2014, S. 350), löst aber Anwendungs- und Ausle-
+gungsprobleme aus, die eine effektive Bekämpfung der Abgeordnetenbestechung erschweren. Insgesamt besteht
+kein Bedürfnis für ein Festhalten an dieser Formulierung, die als Einschränkung verstanden zu einer Behinderung
+der Strafverfolgung führen könnte.
+Gravierender ist jedoch, dass nach dem bislang geltenden Wortlaut nur Tätigkeiten des Abgeordneten „bei der
+Wahrnehmung seines Mandates“ erfasst sein sollen. Hierzu zählen nach dem Willen des damaligen Gesetzgebers
+(siehe BT-Drucksache 18/476, Seite 8) sämtliche Tätigkeiten in den Parlaments- und Fraktionsgremien, also Tä-
+tigkeiten im Rahmen der parlamentarischen Arbeit im Plenum, den Bundestagsausschüssen und den Arbeitskrei-
+sen und Arbeitsgruppen der Fraktionen. Erfasst sein sollen auch Tätigkeiten in Gremien, die der Bundestag ganz
+oder teilweise besetzt, und die parlamentarische Aufgaben wahrnehmen, wie z. B. Vermittlungsausschuss, Ge-
+meinsamer Ausschuss oder Richterwahlausschuss. Nicht erfasst sein sollen Tätigkeiten des Abgeordneten als
+Mitglied eines parteiinternen Gremiums, oder die er im Rahmen einer Nebentätigkeit erzielt.
+Gerade das, was nicht erfasst sein soll, stellt sich gegenwärtig als problematisch dar. Sowohl nach den Gesetzes-
+materialien als auch nach der überwiegenden Meinung in der Literatur fallen Tätigkeiten außerhalb der durch das
+Mandat begründeten Zuständigkeiten, etwa wenn lediglich die Autorität des Mandates oder die Kontakte des
+Mandatsträgers ausgenutzt werden, nicht unter das Tatbestandsmerkmal „bei der Wahrnehmung seines Manda-
+tes“, auch wenn damit ein in der Zuständigkeit einer anderen Stelle liegender Vorgang beeinflusst werden soll.
+Einige Stimmen stellen dabei maßgeblich auf den in den Gesetzmaterialien zum Ausdruck kommenden Willen
+des Gesetzgebers ab (A. Peters: Korruption in Volksvertretungen, 2017, S. 276 und 304; Busch: Ist die strafwür-
+dige Beeinflussung und Beeinflussbarkeit von Bundestagsabgeordneten durch § 108e StGB hinreichend gere-
+gelt?, 2018, S. 101). Andere Stimmen schränken die von dem Tatbestandsmerkmal „bei der Wahrnehmung seines
+Mandats“ erfassten Handlungen oder Unterlassungen eines Mandatsträgers dahingehend ein, dass mit diesem „auf
+parlamentarische Vorgänge Einfluss genommen werden soll (MüKoStGB/H. E. Müller, 4. Auflage 2021, StGB
+§ 108e Rn. 32), oder dass „der Abgeordnete auf parlamentarische Prozesse Einfluss zu nehmen versucht“ (Kubi-
+ciel / Hoven, NK 2014, 339, 345). Dies ist aber nicht erforderlich: „Bei der Wahrnehmung seines Mandats“ ist
+vielmehr bereits dann erfüllt, wenn die Handlung oder Unterlassung auf eine Auswirkung oder ein Einfließen abzielt.
+Deutscher Bundestag – 20. Wahlperiode
+ – 5 –
+ Drucksache 20/2777
+Soweit erkennbar, verbleiben nur zwei alleinstehende Meinungen in der Literatur, nämlich dass sich aus dem
+Wortlaut der Norm keine Einschränkung des Tatbestands ergebe, und eine „Wahrnehmung des Mandats“ auch
+dann vorläge, „wenn ein Abgeordneter außerhalb seiner parlamentarischen `Zuständigkeit ́ die Nähe zu politi-
+schen Entscheidungsträgern nutzt, um  ́auftragsgemäß ́ fremde Interessen durchzusetzen“ (Fischer, StGB, 68.
+Auflage, § 108e Rn. 28), oder die Auffassung, dass das Werben um politische Positionen einen wesentlichen
+Bestandteil der Mandatsausübung darstellt, so dass auch die „Nutzung von Autorität und Kontakten“ des Abge-
+ordneten nicht per se von § 108e StGB ausgenommen sei.
+Insofern ist es kein Wunder, dass gerade in der sogenannten „Maskenaffäre“ das Oberlandesgericht München in
+zwei Entscheidungen (Beschluss vom 16. November 2021, 6 St 4 – 5/21, und Beschluss vom 17. November 2021,
+8 St 3/21) entschieden hatte, dass seitens eines Ermittlungsrichters angeordnete Vermögensarreste aufgehoben bzw.
+die Rechtswidrigkeit von Durchsuchungsbeschlüssen wegen des Anfangsverdachts nach § 108e StGB festgestellt
+worden waren. Gegen diese Beschlüsse hat die Generalstaatsanwaltschaft München Beschwerde beim BGH ein-
+gelegt, über die noch nicht entschieden ist.
+Allerdings machten die Richter des OLG München keinen Hehl daraus, dass sie mit diesem Ergebnis unzufrieden
+seien: „Der Senat hat es aufgrund der Gewaltenteilung hinzunehmen, dass die Vorstellung des Deutschen Bundes-
+tages über die Strafwürdigkeit gewisser Verhaltensweisen seiner Mitglieder (und der Mitglieder der Länder- und
+Kommunalparlamente) von der Auffassung der internationalen Normgeber substanziell abweicht, auch wenn die
+diesbezüglichen Erwägungen des deutschen Gesetzgebers, dass es keinen Anlass gebe, die missbräuchliche Ein-
+flussnahme unter Strafe zu stellen (BT-Drucksache 18/9234, Seite 36), und dass ein Bedürfnis für eine derart weit-
+gehende Bestrafung dritter Personen bislang nicht aufgetreten sei (BT-Drucksache 18/2138, Seite 82), vor dem
+Hintergrund des vorliegenden Falls zweifelhaft erscheinen dürfte.“ (aus der Entscheidung des 8. Senats, siehe
+oben). Dass sogar die missbräuchliche Kommerzialisierung des Mandats unter Ausnutzung einer nationalen Not-
+lage von beispielsloser Tragweite u. U. nach aktueller Rechtslage straflos bleibe, erscheine kaum vertretbar und
+stehe im eklatanten Widerspruch zum allgemeinen Rechtsempfinden (nach LTO vom 18.11.2021).
+Auch wenn die Gesetzesänderung für eine Aufarbeitung der „Maskenaffäre“ zu spät kommt, ist das Problem einer
+eventuellen Straflosigkeit in zukünftigen Fällen nicht vom Tisch. An Volksvertreter dürfen zu Recht hohe Anfor-
+derungen an deren Integrität gestellt werden; denn schließlich dienen sie dem gesamten Volk und nicht ihrer Brief-
+tasche.

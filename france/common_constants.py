@@ -1,0 +1,1 @@
+SITE_HOST: str = 'https://www.assemblee-nationale.fr'

@@ -1,0 +1,168 @@
+C. Alternativen
+Keine, wenn die aktuelle Rechtsunsicherheit und Ungleichbehandlung von
+Käufern analoger und digitaler Medien aufgehoben werden soll.
+
+Begründung
+
+A. Allgemeines
+
+I. Erschöpfungsgrundsatz
+
+Das in § 17 des Urheberrechtsgesetzes (UrhG) geregelte
+Verbreitungsrecht regelt die Befugnis des Rechteinhabers,
+Vervielfältigungsstücke seines Werks in Verkehr zu bringen.
+Es handelt sich hierbei um ein Ausschließlichkeitsrecht, das
+seine Grenze jedoch am sogenannten Erschöpfungsgrund-
+satz findet. Dieser ist auf EU-Ebene in verschiedenen Richt-
+linien geregelt (Vermiet- und Verleihrechts-Richtlinie 92/
+100/EWG, Artikel 9 Absatz 2, Computerprogramm-Richt-
+linie 91/250/EWG, Artikel 4c, Infosoc-Richtlinie 2001/29/
+EG, Artikel 4 Absatz 2). Sofern der Urheber ein körperliches
+Exemplar seines Werks in Verkehr gebracht hat (oder einem
+Dritten dies genehmigt hat), erschöpft sich mit diesem Akt
+sein Recht, die weitere Verbreitung zu kontrollieren. Die ent-
+sprechenden Werkstücke können mithin innerhalb der Euro-
+päischen Union frei gehandelt werden. Dies bezieht sich
+auch auf Gebrauchthandel. Die Regelung steht im Einklang
+mit den Bestrebungen der Gemeinschaft, einen möglichst
+reibungslosen innereuropäischen Warenhandel zu ermög-
+lichen. Der Urheber bzw. Rechteinhaber soll, nachdem er
+sein Werk einmal „auf den Markt geworfen“ hat, nicht mehr
+die Möglichkeit haben, dessen weitere Verbreitung etwa von
+der Zahlung von Urheberrechtsvergütungen abhängig zu
+machen.
+
+Allerdings gilt dies nach herrschender Meinung nur für kör-
+perliche Werkexemplare, also für Musik-CDs, Bücher oder
+Softwaredatenträger, nicht jedoch für unkörperliche Me-
+dienprodukte, also Dateien. Dies hat nicht zuletzt darin sei-
+nen Grund, dass Dateien per definitionem nicht „verbreitet“
+werden und folglich auch nicht „weiterverbreitet“ werden
+können. Wird ein Werk nicht in körperlicher Form, sondern
+beispielsweise als Download vertrieben, handelt es sich von
+vornherein nicht um eine Verbreitung, sondern hier ist das
+Recht der öffentlichen Zugänglichmachung (§ 19a) betrof-
+fen. Folglich kann auch keine Weiterverbreitung stattfinden.
+Das Recht der öffentlichen Zugänglichmachung jedoch er-
+schöpft sich nicht, die Nutzung ist genehmigungspflichtig.
+„Die Online-Übertragung stellt keine Verbreitung dar, son-
+dern ist ein Recht der öffentlichen Wiedergabe“, schreibt
+auch Gerhard Schricker in seinem Urheberrechtskommentar
+(Schricker/Loewenheim, Urheberrecht Kommentar, 4. Aufl.
+2010, § 17, Rn. 45).
+
+Vor diesem Hintergrund stellt sich die Frage, ob daraus ge-
+schlossen werden muss, dass die Verkehrsfähigkeit unkör-
+perlicher Werkstücke grundsätzlich eingeschränkt sein soll,
+nämlich abhängig von der Genehmigung des Rechtein-
+habers. Oder ob in Fällen, in denen der unkörperliche Ver-
+trieb lediglich traditionelle Vertriebsformen ersetzt, von
+einer Analogie körperlicher und unkörperlicher Werkexem-
+plare auszugehen ist. Hierüber gehen die Meinungen aus-
+einander (vgl. Berger, GRUR 2002, S. 198/199; Dreier,
+ZUM 2002, S. 28/32; Dreier/Schulze-Dreier, § 19a, Rn. 11;
+Hoeren, MultiMedia und Recht 2000, S. 515/517; Knies,
+GRUR Int. 2002, S. 314 ff. passim; Spindler, GRUR 2002,
+S. 105/110; Wandtke/Bullinger-Grützmacher, § 69c, Rn. 31;
+Fromm/Nordemann-
+S. 316/318;
+Kröger, CR 2001;
+
+Dustmann, § 19a, Rn. 29; Mäger, CR 1996, S. 522/524 ff.;
+Linnenborn, K&R 2001, S. 394/395; Koch, GRUR 1997,
+S. 417/425 ff.; Koehler, Der Erschöpfungsgrundsatz im On-
+line-Bereich, Dissertation 2000, S. 167 ff. Anderer Auffas-
+sung Jaeger, Der Erschöpfungsgrundsatz im neuen Urheber-
+recht, in Hilty, Reto/Peukert, Alexander (Hrsg.), Interessen-
+ausgleich im Urheberrecht, Baden-Baden 2004, S. 47 ff.;
+Schricker-Loewenheim, § 17, Rn. 37; Fromm/Nordemann-
+Czychowski, § 69c, Rn. 17; Schricker/v. Ungern-Sternberg,
+§ 19a, Rn. 6; Schricker/Loewenheim, § 69c, Rn. 34). Befür-
+worter einer analogen Anwendung des Erschöpfungsgrund-
+satzes argumentieren mit dem gleich gelagerten Interesse der
+Käufer sowie dem grundsätzlichen Interesse des Gesetz-
+gebers an einem freien Markt. Skeptiker verweisen auf den
+Erwägungsgrund 29 der Infosoc-Richtlinie 2001/29/EG, wo
+es wörtlich heißt: „Die Frage der Erschöpfung stellt sich we-
+der bei Dienstleistungen allgemein noch bei Online-Diens-
+ten im Besonderen. Dies gilt auch für materielle Vervielfälti-
+gungsstücke eines Werks oder eines sonstigen Schutzgegen-
+stands, die durch den Nutzer eines solchen Dienstes mit Zu-
+stimmung des Rechtsinhabers hergestellt worden sind. […]
+Anders als bei CD-ROM oder CD-I, wo das geistige Eigen-
+tum in einem materiellen Träger, das heißt einem Gegen-
+stand, verkörpert ist, ist jede Bereitstellung eines Online-
+Dienstes im Grunde eine Handlung, die zustimmungsbedürf-
+tig ist, wenn das Urheberrecht oder ein verwandtes Schutz-
+recht dies vorsieht.“
+
+Es ist unschwer erkennbar, dass schon die europarechtlichen
+Vorgaben unsicheres Terrain eröffnen. Einerseits ist aus dem
+Erwägungsgrund 29 deutlich erkennbar, dass der Gesetz-
+geber materielle Werkexemplare anders behandelt sehen
+möchte als Onlinedienstleistungen. Andererseits unterschei-
+det er nicht zwischen einem Onlinedienst als einem in urhe-
+berrechtlicher Hinsicht zustimmungspflichtigen Angebot
+und einer konkreten Datei als immateriellem Werkstück.
+Auch erscheint die Logik der Formulierungen nicht schlüs-
+sig: Im ersten Satz ist von einer Nichtanwendbarkeit des Er-
+schöpfungsgrundsatzes auf Onlinedienste die Rede. Im
+zweiten Satz wird diese Nichtanwendbarkeit jedoch aus-
+drücklich auf materielle Werkstücke ausgedehnt. Demzu-
+folge wäre der Erschöpfungsgrundsatz auf urheberrechtlich
+geschützte Werke gar nicht anwendbar, ob sie nun körperlich
+oder unkörperlich vertrieben werden.
+
+Die Frage nach der analogen Anwendung des Erschöpfungs-
+grundsatzes auf nichtkörperliche Werkstücke hat nicht nur
+eine verbraucherpolitische, sondern auch eine handfeste
+wirtschaftliche Bedeutung. Wenn heutzutage Lizenzen für
+Computerprogramme an große Unternehmen verkauft wer-
+den, möchten diese häufig ein und dasselbe Programm auf
+zahlreichen Rechnern einsetzen. Statt unzählige CDs mit der
+Post zu verschicken, verkaufen die Anbieter daher Volumen-
+lizenzen, also mengenmäßig gestaffelte „Lizenzpakete“ von
+beispielsweise 500, 1 000 oder 2 000 Arbeitsplatzlizenzen
+eines Programms. Der Kaufpreis berechnet sich nach diesen
+Paketen, es wird also nicht jede einzelne Lizenz bezahlt. Ent-
+sprechend verfügen große Unternehmen häufig über über-
+schüssige Volumenlizenzen, deren wirtschaftlichen Wert sie
+durch einen Weiterverkauf zu realisieren versuchen. Doch
+
+Deutscher Bundestag – 17. Wahlperiode
+
+– 5 –
+
+Drucksache 17/8377
+
+auch bei der Einstellung einzelner Geschäftsbereiche eines
+Unternehmens kann es sinnvoll erscheinen, die bislang ge-
+nutzte Software „gebraucht“ weiterzuverkaufen. Hiervon
+profitieren einerseits andere Wirtschaftsunternehmen, ande-
+rerseits zahlreiche deutsche Städte und Gemeinden. Die
+Firma usedSoft Gruppe, ein Marktführer in diesem Bereich,
+zählt neben privaten Unternehmen nicht nur diverse Spar-
+kassen zu ihren Kunden, sondern auch die Stadt München,
+das Bundessozialgericht in Kassel, die Stadtverwaltung Bad
+Salzuflen, die Datenzentrale Baden-Württemberg und wei-
+tere 100 Kommunen (http://itnewsbyte.com/de/news/nws
+153101,,.htm). Sie alle verstoßen aus Sicht der Rechteinhaber
+möglicherweise gegen das Urheberrecht („Gebrauchte Pro-
+gramme sind preiswert. Aber wenn die Original-Lizenz fehlt,
+kann das Schnäppchen sehr teuer werden“, droht Microsoft:
+http://microsoft.com/germany/gebrauchte-software/default.
+mspx. Eine differenzierte Analyse der Rechtslage findet sich
+beim Branchenverband BITKOM: http://bitkom.org/de/
+themen/54834_45130.aspx. Beide betonen, für die Rechtmä-
+ßigkeit der Weiterveräußerung seien nicht nur gesetzliche,
+sondern auch vertragliche Bestimmungen entscheidend.).
+Der Bundesgerichtshof (BGH) hat eine entsprechende Ent-
+scheidung kürzlich verschoben, um einzelne Fragen zu-
+nächst vom Europäischen Gerichtshof klären zu lassen (vgl.
+http://golem.de/1102/81170.html). Frühere Instanzen haben
+in vergleichbaren Fällen uneinheitlich entschieden (LG
+Hamburg: MultiMedia und Recht 2006, S. 827; OLG Mün-
+chen: MultiMedia und Recht 2008, S. 601; OLG Frankfurt
+am Main: ZUM-RD 2009, S. 541; LG München: Multi-
+Media und Recht 2007, S. 328 ff. sowie MultiMedia und
+Recht 2008, S. 563 ff.).

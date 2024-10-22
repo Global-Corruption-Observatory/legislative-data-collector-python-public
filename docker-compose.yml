@@ -1,0 +1,14 @@
+version: '2.3'
+services:
+  legislative-mongo:
+    image: mongo:7.0.4-jammy
+    container_name: legislative-mongo
+    ports:
+      - '51432:27017'
+    environment:
+      MONGO_INITDB_DATABASE: legislative-mongo
+      MONGO_INITDB_ROOT_USERNAME: <ADD-USER>
+      MONGO_INITDB_ROOT_PASSWORD: <ADD-PASSWORD>
+    volumes:
+      - '/mnt/HC_Volume_36945742/mongodata/data:/data/db'
+      - '/mnt/HC_Volume_36945742/mongodata/config:/data/configdb'
