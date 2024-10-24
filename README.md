@@ -1,3 +1,6 @@
+## Overview
+This is a standalone Python repository to scrape French, German and Portugese parliamentary bills for the Legislative project. It has no dependency on the [Java codebase](https://github.com/Global-Corruption-Observatory/legislative-data-collector-java-public) for the same project. 
+
 ## Requirements
 - Python 3.11
 - Desktop environment required (to allow starting of browsers): `sudo apt install xfce4`
